@@ -1,4 +1,4 @@
-# For TokenCat's result
+# The result of TokenCat
 
 ## Description
  * `Inconsistent Authentication`:token’s address list with inconsistent authentication
