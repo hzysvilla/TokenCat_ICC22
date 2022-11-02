@@ -9,6 +9,7 @@ You can find our paper about the design, implementation, and experimental result
 # Citing in Academic Work
 
 Welcome to cite our paper:
+```shell
 @INPROCEEDINGS{9839252,
 author={He, Zheyuan and Liao, Zhou and Luo, Feng and Liu, Dijun and Chen, Ting and Li, Zihao},
 booktitle={ICC 2022 - IEEE International Conference on Communications}, 
@@ -16,7 +17,7 @@ title={TokenCat: Detect Flaw of Authentication on ERC20 Tokens},
 year={2022},
 pages={4999-5004},
 doi={10.1109/ICC45855.2022.9839252}}
-
+```shell
 
 # The Catalog of TokenCat 
 
