@@ -17,7 +17,7 @@ title={TokenCat: Detect Flaw of Authentication on ERC20 Tokens},
 year={2022},
 pages={4999-5004},
 doi={10.1109/ICC45855.2022.9839252}}
-```shell
+```
 
 # The Catalog of TokenCat 
 
