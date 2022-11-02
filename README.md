@@ -20,7 +20,7 @@ Welcome to cite our paper:
 # The Catalog of TokenCat 
 
 ## source code
-test
+The source code is in Tokencat_source_code and the core source code is in the Tokencat_source_code/mythril/analysis/module/modules/ApproveCheck.py
 
 ## experiment result
  * `Inconsistent Authentication.xls`：token’s address list with inconsistent authentication
