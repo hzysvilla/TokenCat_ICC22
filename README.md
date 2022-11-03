@@ -10,7 +10,7 @@ You can find our paper about the design, implementation, and experimental result
 
 Welcome to cite our paper:
 ```shell
-@INPROCEEDINGS{9839252,
+@INPROCEEDINGS{tokencat,
 author={He, Zheyuan and Liao, Zhou and Luo, Feng and Liu, Dijun and Chen, Ting and Li, Zihao},
 booktitle={ICC 2022 - IEEE International Conference on Communications}, 
 title={TokenCat: Detect Flaw of Authentication on ERC20 Tokens}, 
